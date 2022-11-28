@@ -5,8 +5,6 @@
     <b>Create your own Al- generated avatars</b>
   </p>
 </div>
-## Features
-
 AI Avatar lets you create your own AI-generated avatars with new latent diffusion imaging models.
 
 Upload ~20 photos of yourself, and get a pack of 120+ AI-generated avatars of your face, including styles like World Cup, Avatar and Christmas.
