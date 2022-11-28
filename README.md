@@ -4,9 +4,14 @@
   <p>
     <b>Create your own Al- generated avatars</b>
   </p>
-  <br>
-  <br>
 </div>
+## Features
+
+AI Avatar lets you create your own AI-generated avatars with new latent diffusion imaging models.
+
+Upload ~20 photos of yourself, and get a pack of 120+ AI-generated avatars of your face, including styles like World Cup, Avatar and Christmas.
+
+Reimagine yourself with AI. Create headshots and glamour shots of yourself in any style or scene imaginable. Perfect for profile pictures, avatars, or merely seeing yourself in a whole new way.
 
 ## Support
 
@@ -23,11 +28,3 @@ Available on iPhone and iPad.
 ![](https://user-images.githubusercontent.com/5158525/204201323-f30c2006-6cf1-43e2-b95b-bd9a26de2853.png)
 ![](https://user-images.githubusercontent.com/5158525/204201343-096d171b-9859-4455-b6b2-646619a6e83b.png)
 ![](https://user-images.githubusercontent.com/5158525/204201370-5ce8d0f7-73d0-49a5-8a1d-9a960d833040.png)
-
-## Features
-
-AI Avatar lets you create your own AI-generated avatars with new latent diffusion imaging models.
-
-Upload ~20 photos of yourself, and get a pack of 120+ AI-generated avatars of your face, including styles like World Cup, Avatar and Christmas.
-
-Reimagine yourself with AI. Create headshots and glamour shots of yourself in any style or scene imaginable. Perfect for profile pictures, avatars, or merely seeing yourself in a whole new way.
