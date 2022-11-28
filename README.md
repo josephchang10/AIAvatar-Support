@@ -4,6 +4,7 @@
   <p>
     <b>Create your own Al- generated avatars</b>
   </p>
+  <br>
 </div>
 
 AI Avatar lets you create your own AI-generated avatars with new latent diffusion imaging models.
