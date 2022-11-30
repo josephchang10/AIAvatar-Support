@@ -85,7 +85,7 @@ To train Artificial Intelligence models based on users' uploaded photos (contain
 ***<ins>If you are located in the EU or UK, this section applies to you.</ins>***
 
 The General Data Protection Regulation (GDPR) and UK GDPR require me to explain the valid legal bases I rely on in order to process your personal information. As such, I may rely on the following legal bases to process your personal information:
-- **Consent.** U may process your information if you have given me permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time.
+- **Consent.** I may process your information if you have given me permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time.
 - **Legitimate Interests.** I may process your information when I believe it is reasonably necessary to achieve my legitimate business interests and those interests do not outweigh your interests and fundamental rights and freedoms. For example, I may process your personal information for some of the purposes described in order to:
 - to train ArtificiaI Intelligence models on uploaded user photos, containing face data, and auto-generate avatars/images based on those Artificial Intelligence models
 - **Legal Obligations.** I may process your information where I believe it is necessary for compliance with my legal obligations, such as to cooperate with a law enforcement body or regulatory agency, exercise or defend m legal rights, or disclose your information as evidence in litigation in which I am involved.
