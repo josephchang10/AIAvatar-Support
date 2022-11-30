@@ -53,6 +53,7 @@ I collect personal information that you voluntarily provide to me when you expre
 
 **Personal Information Provided by You.** The personal information that I collect depends on the context of your interactions with me and the Services, the choices you make, and the products and features you use. The personal information I collect may include the following:
 - photos containing face data
+
 **Application Data.** If you use my application(s), I also may collect the following information if you choose to provide me with access or permission:
 - *Mobile Device Data.* I automatically collect device information (such as your mobile device ID, model, and manufacturer), operating system, version information and system configuration information, device and application identification numbers, browser type and version, hardware model Internet service provider and/or mobile carrier, and Internet Protocol (IP) address (or proxy server). If you are using my application(s), I may also collect information about the phone network associated with your mobile device, your mobile device’s operating system or platform, the type of mobile device you use, your mobile device’s unique device ID, and information about the features of my application(s) you accessed.
 - *Push Notifications.* I may request to send you push notifications regarding your account or certain features of the application(s). If you wish to opt out from receiving these types of communications, you may turn them off in your device's settings.
