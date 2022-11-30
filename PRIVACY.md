@@ -122,7 +122,7 @@ When I have no ongoing legitimate business need to process your personal informa
 
 ## 6. HOW DO I KEEP YOUR INFORMATION SAFE?
 
-***In Short:**I aim to protect your personal information through a system of organizational and technical security measures.*
+***In Short:** I aim to protect your personal information through a system of organizational and technical security measures.*
 
 I have implemented appropriate and reasonable technical and organizational security measures designed to protect the security of any personal information I process. However, despite my safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so I cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat my security and improperly collect, access, steal, or modify your information. Although I will do our best to protect your personal information, transmission of personal information to and from my Services is at your own risk. You should only access the Services within a secure environment.
 
