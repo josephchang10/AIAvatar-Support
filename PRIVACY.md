@@ -1,4 +1,4 @@
-**Privacy Policy**
+# Privacy Policy
 
 Jiafu Zhang built the AI Avatar app as a Free app. This SERVICE is provided by Jiafu Zhang at no cost and is intended for use as is.
 
@@ -8,9 +8,19 @@ If you choose to use my Service, then you agree to the collection and use of inf
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at AI Avatar unless otherwise defined in this Privacy Policy.
 
-**Information Collection and Use**
+## Information Collection and Use
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information.
+
+### Personal information you disclose to us
+
+**In Short:** We collect personal information that you provide to us.
+
+We collect personal information that you voluntarily provide to us when you express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us.
+
+**Personal Information Provided by You.** The personal information that we collect depends on the context of your interactions with us and the Services, the choices you make, and the products and features you use. The personal information we collect may include the following:
+
+* photos containing face data
 
 **Log Data**
 
