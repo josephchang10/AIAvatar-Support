@@ -171,7 +171,7 @@ If this definition of "resident" applies to you, I must adhere to certain rights
 
 I have collected the following categories of personal information in the past twelve (12) months:
 
-| Category | Examples | Collected
+| Category | Examples | Collected |
 | --- | --- |
 | A. Identifiers | Contact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name | NO |
 | B. Personal information categories listed in the California Customer Records statute | Name, contact information, education, employment, employment history, and financial information | NO |
